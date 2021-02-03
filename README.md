@@ -2,11 +2,11 @@
 A collection of CSS styles and JS scripts you can add to your own projects as needed.
 
 ## Categories
-Divided into different 2 main categories: **CSS** and **JS**. Subcategories:
+Divided into 2 main categories: **CSS** and **JS**. Subcategories:
 
-- Typography: Outlined text, lines before text, spacing, etc.
-- Layout: Columns, positioning, media queries, etc.
-- FX: Hover states, animations, etc.
+- **Typography**: Outlined text, lines before text, spacing, etc.
+- **Layout**: Columns, positioning, media queries, etc.
+- **FX**: Hover states, animations, etc.
 
 ## Implementation
 
