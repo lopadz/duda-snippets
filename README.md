@@ -11,7 +11,7 @@ Divided into 2 main categories: **CSS** and **JS**. Subcategories:
 ## Implementation
 
 ### CSS
-Each snippet is tagged with **inline** or **global** types.
+Each snippet is tagged with a type of **inline** or **global**.
 
 - **Inline**: Add the snippet to the widget's CSS (right-click > "Edit HTML/CSS")
 - **Global**: Add the snippet to site.css (Dev Mode > Site HTML/CSS > site.css). Then, simply add the class to any widget that needs it.
