@@ -1,10 +1,10 @@
 # Font fixes
----
 
 ## Raleway Odd Numbers
 Fix Raleway's weird number size
 
 **Type**: Global
+
 **Usage**:
 ```
 body {

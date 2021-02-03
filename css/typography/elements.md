@@ -1,10 +1,10 @@
 # Graphic Elements & Accents
----
 
 ## Line before text
 Add lines using pseudo elements.
 
 **Type**: Global
+
 **Usage**:
 1. Rename and add the 2 classes below to site.css
 2. Add the class name to your widget HMTL
